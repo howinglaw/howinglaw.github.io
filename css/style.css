@@ -20,6 +20,22 @@ p { font-family: 'Lato', sans-serif; font-style: normal; font-weight: 300; font-
 
 text    {font-family:'Lato', sans-serif ; text-anchor:left;}
 
+
+/* .box .item {
+  display: grid;
+  place-items: center;
+} */
+
+.partTwo {width:100%; background-color: #FFFFFF; padding-top: 10px; padding-bottom: 10px;}
+
+/* .age-wrapper {width: 860px; text-align: center; display: inline-block;} */
+
+.age-wrapper {padding-bottom: 20px;}
+
+.partThree {width:100%; padding-top: 20px; }
+
+
+
 label    {font-family:'Lato', sans-serif ; text-anchor:left;}
 
 path {cursor: pointer;}
@@ -76,9 +92,6 @@ text.c-legend {font-size: 20px; font-family:'Lato', sans-serif; font-weight: 700
 
 text.rect-legend {font-size: 12px; font-family:'Lato', sans-serif; font-weight: 400;}
 
-.age-wrapper {width: 860px; text-align: center; display: inline-block;}
-
-.allAgeplot {width:100%; background-color: #FFFFFF; padding-top: 10px; padding-bottom: 50px;}
 
 .ageLegend {cursor: pointer;}
 
@@ -93,10 +106,4 @@ label{font-family:'Lato', sans-serif; font-size: 14px; font-weight:700 ;margin: 
 .ageplot {margin-left: 80px; margin-top: 2px; display: inline;}
 
 .bpTitle {font-size: 18px;}
-
-div {
-    text-align:center;
-    width:100%;
-    padding:50;
-  }
 
