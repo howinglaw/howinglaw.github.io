@@ -30,9 +30,12 @@ text    {font-family:'Lato', sans-serif ; text-anchor:left;}
 
 /* .age-wrapper {width: 860px; text-align: center; display: inline-block;} */
 
-.age-wrapper {padding-bottom: 20px;}
+.age-wrapper {margin-bottom: 10px; display: flex; justify-content: center; }
 
 .partThree {width:100%; padding-top: 20px; }
+
+.vid {margin-top:50px}
+
 
 
 
